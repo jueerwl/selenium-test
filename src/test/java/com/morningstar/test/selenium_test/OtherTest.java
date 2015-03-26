@@ -7,6 +7,7 @@ public class OtherTest {
 	@Test
 	public void Other(){
 		System.out.println("For other test.");
+		System.out.println(System.getProperty("BrowserType"));
 	}
 
 
